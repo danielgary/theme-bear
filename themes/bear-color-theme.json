@@ -90,8 +90,8 @@
     // titleBar
     "titleBar.activeBackground": "#1f2023",
     "titleBar.activeForeground": "#bcb28d",
-    "titleBar.inactiveBackground": "#bcb28d",
-    "titleBar.inactiveForeground": "#707C74",
+    "titleBar.inactiveBackground": "#1f2023",
+    "titleBar.inactiveForeground": "#bcb28d",
 
     // list
     "list.hoverBackground": "#40627C66",
@@ -105,8 +105,6 @@
     "list.errorForeground": "#E03C8A",
     "list.hoverForeground": "#bcb28d",
     "list.highlightForeground": "#93a1a1",
-    
-    
 
     // editorGroupHeader
     "editorGroupHeader.tabsBackground": "#212121",
